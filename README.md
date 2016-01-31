@@ -2,6 +2,9 @@
 
 Briefly describe your app here.
 
+A simple, intuitive app that allows you to calculate how many calories you burn for a certain exercise that you do.
+Also gives you equivalent exercises that you can do. 
+
 ## Authors
 
 Jeffrey Tan ([jefftan27@berkeley.edu](mailto:jefftan27@berkeley.edu))
