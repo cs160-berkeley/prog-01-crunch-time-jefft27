@@ -11,7 +11,7 @@ Jeffrey Tan ([jefftan27@berkeley.edu](mailto:jefftan27@berkeley.edu))
 
 ## Demo Video
 
-See [https://www.youtube.com/watch?v=fcjwo9zamVA&feature=youtu.be] (https://link_to_your_video)
+See [https://www.youtube.com/watch?v=fcjwo9zamVA&feature=youtu.be] (https://www.youtube.com/watch?v=fcjwo9zamVA&feature=youtu.be)
 
 ## Screenshots
 
