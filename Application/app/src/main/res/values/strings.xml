@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string-array name="activities_array">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+    <string name="reps"> Repetitions </string>
+    <string name="minutes"> Minutes </string>
+    <string name="number"> 50 </string>
+</resources>
