@@ -21,5 +21,3 @@ See [https://www.youtube.com/watch?v=fcjwo9zamVA&feature=youtu.be] (https://www.
 
 * Hat tip to anyone who's code was used
 * Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
